@@ -23,8 +23,8 @@
 
 <div align=center>
   <a href="https://github.com/Rogkk">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rogkk&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogkk&layout=compact&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rogkk&show_icons=true&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogkk&layout=compact&theme=tokyonight"/>
 </div>
 
 ## 💻 Development Stack
