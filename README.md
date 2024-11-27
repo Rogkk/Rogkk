@@ -7,7 +7,7 @@
 
 &nbsp;
 
-**Talking about Personal Stuffs:**
+## 🙍‍♂️ Talking about Personal Stuffs:
 
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="30%" align="right" alt="image" src="https://img.freepik.com/vetores-premium/design-plano-de-soldado-com-cidade-destruida_548078-28.jpg" /> -->
@@ -27,7 +27,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogkk&layout=compact&theme=tokyonight"/>
 </div>
 
-## 💻 Development Stack
+## 💻 Languages and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rog-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
