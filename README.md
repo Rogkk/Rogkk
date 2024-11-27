@@ -43,5 +43,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rogkk/Rogkk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rogkk/Rogkk/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [Rogkk/snk](https://github.com/Rogkk/snk)_
