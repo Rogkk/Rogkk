@@ -9,8 +9,7 @@
 
 ## 🙍‍♂️ Talking about Personal Stuffs:
 
-<!-- Any image aligned to the right. Beware the width -->
-<!-- <img width="30%" align="right" alt="image" src="https://img.freepik.com/vetores-premium/design-plano-de-soldado-com-cidade-destruida_548078-28.jpg" /> -->
+<img width="25%" align="right" alt="image" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 - 👨🏽‍💻 I’m currently working on Transcorp Transportes e Serviços;
 - 🌱 I’m currently studying Computer Science at Estacio;
