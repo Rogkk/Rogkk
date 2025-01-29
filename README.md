@@ -11,8 +11,8 @@
 
 <img width="25%" align="right" alt="image" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
-- 👨🏽‍💻 I’m currently working on Transcorp Transportes e Serviços;
 - 🌱 I’m currently studying Computer Science at Estacio;
+- 🔐 I’m interested in Cybersecurity;
 - 🚀 I'm currently contributing to [Marvel Vs Capcom](https://github.com/Rogkk/Trabalho-Des.-Web)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rogerioweel@gmail.com;
