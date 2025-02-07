@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently studying Computer Science at Estacio;
 - 🔐 I’m interested in Cybersecurity;
-- 🚀 I'm currently contributing to [Marvel Vs Capcom](https://github.com/Rogkk/Trabalho-Des.-Web)
+- 🚀 I'm currently contributing to [DNS-Resolver-API](https://github.com/Rogkk/DNS-Resolver-API)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rogerioweel@gmail.com;
 
