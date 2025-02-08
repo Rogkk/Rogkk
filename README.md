@@ -22,8 +22,8 @@
 
 <div align=center>
   <a href="https://github.com/Rogkk">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rogkk&show_icons=true&theme=tokyonight"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogkk&layout=compact&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rogkk&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogkk&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
 </div>
 
 ## 💻 Languages and Tools
