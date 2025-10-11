@@ -1,4 +1,4 @@
-## Hi, I'm Rogerio Silva, a Developer 🚀 from Brazil.
+## Hi, I'm Rogerio Silva.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rogkk)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogsamuel/)
@@ -11,11 +11,11 @@
 
 <img width="25%" align="right" alt="image" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
-- 🌱 I’m currently studying Computer Science at Estacio;
-- 🔐 I’m interested in Cybersecurity;
-- 🚀 I'm currently contributing to [DNS-Resolver-API](https://github.com/Rogkk/DNS-Resolver-API)
+- 🌱 I’m currently studying Computer Science;
+- 🔐 I’m interested in Cybersecurity and IA;
+- 🚀 I'm currently contributing to [SOC Automation w/ IA](https://github.com/lfmds/ProjetoAutomacao)
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: rogerioweel@gmail.com;
+- 📫 How to reach me: rsamuel.silva@outlook.com;
 
 
 ## 🌟 Stats Profile
