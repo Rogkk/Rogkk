@@ -12,8 +12,8 @@
 <img width="25%" align="right" alt="image" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 - 🌱 I’m currently studying Computer Science;
-- 🔐 I’m interested in Cybersecurity and IA;
-- 🚀 I'm currently contributing to [SOC Automation w/ IA](https://github.com/lfmds/ProjetoAutomacao)
+- 🔐 I’m interested in Python and IA;
+- 🚀 I'm currently contributing to [Project Axioma](https://github.com/Rogkk/Axioma)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rsamuel.silva@outlook.com;
 
